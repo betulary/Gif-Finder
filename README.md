@@ -11,10 +11,6 @@ A simple web application that allows you to search for Giphy images and display 
   - [Installation](#installation)
   - [Usage](#usage)
 
-## Demo
-
-You can see the app in the [DEMO LINK](https://uufukttas-giphy-finder.netlify.app).
-
 ## Tech Stack
 
 - React
